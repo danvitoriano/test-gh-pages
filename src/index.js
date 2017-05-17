@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import App from './components/App';
 
 ReactDOM.render(
-  <BrowserRouter basename='/awesome-idea-box'>
+  <BrowserRouter basename='/test-gh-pages'>
     <App />
   </BrowserRouter>,
   document.getElementById('root'),
